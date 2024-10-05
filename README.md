@@ -1,5 +1,5 @@
 # AI-ML-Football-Analysis-system-with-YOLO-OpenCV-and-Python
-
+ 
 1. Use ultralytics and YOLOv8 to detect objects in images and videos.   
 2. Fine tune and train your own YOLO on your own custom dataset.
 3. Use KMeans to cluster pixles and segment players from the background to get the t-shirt color accurately. 
